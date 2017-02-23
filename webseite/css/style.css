@@ -1,0 +1,17 @@
+body{
+    
+    text-align: center;
+}
+
+//Löschen der Standert Einstellungen
+Canvas {
+
+    margin: 0 auto;
+    vertical-align: middle;
+
+}
+//Löschen der Standert Einstellungen
+button {
+    margin: 0px;
+    padding: 0px;
+}

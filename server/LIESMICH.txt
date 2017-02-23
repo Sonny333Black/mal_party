@@ -1,0 +1,14 @@
+Zur Installation des Websocket-Broadcast-Servers:
+
+Das Orignal finden Sie hier, evtl. handelt es sich aber um eine neuere Version:
+https://github.com/Flynsarmy/PHPWebSocket-Chat
+
+Verwenden Sie daher für die Hausarbeit besser nur die Dateien in diesem Ordner, diese werden auch auf borsti1 eingesetzt.
+
+- Installieren Sie PHP. Wer XAMPP oder andere Serverentwicklungsumgebungen installiert hat, hat PHP bereits.
+- Passen Sie die Server-URL und den Port Ihren Gegebenheiten an (Datei broadcastServer.php, ganz unten).
+- Schalten Sie im Firewall den verwendeten Port frei.
+- Passen Sie in startBroadcastServer.bat den Pfad zu Ihrem PHP an.
+- Starten Sie startBroadcastServer.bat
+
+(Die Datei class.PHPWebSocket.php wird von broadcastServer.php importiert.)
